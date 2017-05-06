@@ -1,11 +1,12 @@
 {
   "name": "hot_restaurant",
   "version": "1.0.0",
-  "description": "A restaurant reservatoins app",
+  "description": "A restaurant reservation app",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {},
   "scripts": {
